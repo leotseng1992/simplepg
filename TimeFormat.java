@@ -13,6 +13,7 @@ public class TimeFormat {
 		private int ha = 3;
 		private int haha = 3;
 		private int beta =9;
+		private int alpha = 5;
 
 		String timeFormat = "^([0-9]{4}){1}(0[1-9]|1[0-2]){1}(0[1-9]|[1-2][0-9]|3[0-1]){1}$";
 		System.out.println("請輸入日期(年月日,例如:20110131)");
